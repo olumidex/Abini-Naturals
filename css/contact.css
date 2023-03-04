@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: open sauce two;
+}
+
+header, section{
+    overflow-x: hidden;
+}
+
+a{
+    color:  black !important;
+    font-size: 1em;
+    font-weight: 500;
+}
+
+
+.nav-item::after {
+    content: '';
+    display: block;
+    width: 0px;
+    height: 3px;
+    background: rgb(0, 0, 0);
+    transition: 0.4s
+}
+
+.nav-item:hover::after {
+    width: 100%
+}
+
+
+.nav-item:last-child{
+    padding-right: 12.5em;
+}
+
+.nav-item{
+    padding: 0.9em;
+}
+
+.navbar-brand{
+    padding-left: 11em;
+}
+
+.navbar-brand img{
+    width: 12%;
+}
+
+.image img{
+    width: 79%;
+    margin-left: 21vmin;
+    height: 79vmin;
+}
+
+.tact h2{
+    margin-left: 5vmin;
+    font-family: abhaya libre;
+    font-size: 70px;
+}
+
+.tact p{
+    margin-left: 5vmin;
+    font-size: 15px;
+}
+
+
+/* Style inputs */
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    height: 8vmin;
+    border: none;
+    outline: none;
+    border-radius: none;
+    background: rgb(205, 204, 206);
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #000000;
+    width: 25%;
+    height: 6vmin;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 3vmin;
+  }
+  
+  
+ 
+  
+  /* Create two columns that float next to eachother */
+  .column {
+    float: left;
+    width: 45%;
+    margin-top: 6px;
+    padding: 20px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .other{
+    margin-left: 5vmin;
+  }
+
+
+footer{
+    background: black;
+}
+
+.start{
+    color: white;
+    margin-right: 70vmin;
+    font-size: 28px;
+    margin-bottom: -1vmin;
+}
+
+.section5{
+    margin-left: 21vmin;
+    margin-top: 15vmin;
+}
+
+.ad{
+    font-size: 35px;
+    color: white;
+    margin-top: 10vmin;
+    font-family: abhaya libre;
+}
+
+.office{
+    color: white;
+    font-size: 20px;
+    font-family: open sauce two;
+    font-weight: 100;
+    padding-top: 2vmin;
+}
+
+.foots{
+    margin-left: -13vmin;
+    margin-right: 10vmin;
+}
+
+.input-group input{
+    height: 6vmin;
+    background: rgb(205, 204, 206);
+    outline: none;
+    border-radius: none;
+    border: none;
+}
+
+.btn4{
+    margin-top: 3vmin;
+    width: 35%;
+    height: 6vmin;
+    border: none;
+    border-radius: none;
+    outline: none;
+    cursor: pointer;
+    font-family: abhaya libre;
+    font-size: 20px;
+}
+
+.icon{
+    margin-top: 8vmin;
+    margin-bottom: 5vmin;
+}
+
+.icon i{
+    color: white;
+    padding: 1vmin;
+    font-size: 20px;
+}

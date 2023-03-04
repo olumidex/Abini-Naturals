@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: open sauce two;
+}
+
+header, section{
+    overflow-x: hidden;
+}
+
+a{
+    color:  black !important;
+    font-size: 1em;
+    font-weight: 500;
+}
+
+
+.nav-item::after {
+    content: '';
+    display: block;
+    width: 0px;
+    height: 3px;
+    background: rgb(0, 0, 0);
+    transition: 0.4s
+}
+
+.nav-item:hover::after {
+    width: 100%
+}
+
+
+.nav-item:last-child{
+    padding-right: 12.5em;
+}
+
+.nav-item{
+    padding: 0.9em;
+}
+
+.nav-link {
+    padding: 25px 5px;
+    transition: 0.2s
+}
+
+.navbar-brand{
+    padding-left: 11em;
+}
+
+.navbar-brand img{
+    width: 12%;
+}
+
+
+/* Section6 */
+.section6{
+    margin-top: 10vmin;
+}
+
+.top-band h1{
+    text-align: center;
+    font-family: abhaya libre;
+    font-size: 55px;
+}
+
+.top-band p{
+    text-align: center;
+    font-size: 18px;
+    font-family: open sauce two;
+    margin-top: 5vmin;
+}
+
+
+/* image-section */
+
+
+.pic-sec{
+    margin-top: 5vmin;
+    margin-left: 50vmin;
+}
+
+.pictures{
+    margin-left: -25vmin;
+    margin-right: -25vmin;
+}
+
+.pictures img{
+    width: 45%;
+}
+
+
+/* Section7 */
+
+.section7{
+    margin-top: 5vmin;
+}
+
+.field-text{
+   text-align: justify;
+    margin-left: 45vmin;
+    font-size: 22px;
+    margin-bottom: 20vmin;
+}
+
+/* Section5 */
+
+footer{
+    background: black;
+}
+
+.start{
+    color: white;
+    margin-right: 70vmin;
+    font-size: 28px;
+    margin-bottom: -1vmin;
+}
+
+.section5{
+    margin-left: 21vmin;
+    margin-top: 15vmin;
+}
+
+.ad{
+    font-size: 35px;
+    color: white;
+    margin-top: 10vmin;
+    font-family: abhaya libre;
+}
+
+.office{
+    color: white;
+    font-size: 20px;
+    font-family: open sauce two;
+    font-weight: 100;
+    padding-top: 2vmin;
+}
+
+.foots{
+    margin-left: -13vmin;
+    margin-right: 10vmin;
+}
+
+.input-group input{
+    height: 6vmin;
+    background: rgb(205, 204, 206);
+    outline: none;
+    border-radius: none;
+    border: none;
+}
+
+.btn4{
+    margin-top: 3vmin;
+    width: 35%;
+    height: 6vmin;
+    border: none;
+    border-radius: none;
+    outline: none;
+    cursor: pointer;
+    font-family: abhaya libre;
+    font-size: 20px;
+}
+
+.icon{
+    margin-top: 8vmin;
+    margin-bottom: 5vmin;
+}
+
+.icon i{
+    color: white;
+    padding: 1vmin;
+    font-size: 20px;
+}

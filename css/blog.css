@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: open sauce two;
+}
+
+header, section{
+    overflow-x: hidden;
+}
+
+a{
+    color:  black !important;
+    font-size: 1em;
+    font-weight: 500;
+}
+
+
+.nav-item::after {
+    content: '';
+    display: block;
+    width: 0px;
+    height: 3px;
+    background: rgb(0, 0, 0);
+    transition: 0.4s
+}
+
+.nav-item:hover::after {
+    width: 100%
+}
+
+
+.nav-item:last-child{
+    padding-right: 12.5em;
+}
+
+.nav-item{
+    padding: 0.9em;
+}
+
+.navbar-brand{
+    padding-left: 11em;
+}
+
+.navbar-brand img{
+    width: 12%;
+}
+
+/* section9*/
+
+.section9{
+    margin: 5vmin;
+}
+
+.your h1{
+    font-size: 70px;
+    text-align: center;
+    font-family: abhaya libre;
+    margin-top: 3vmin;
+
+}
+
+.your p{    
+    text-align: center;
+    font-size: 20px;
+    margin-top: 2vmin;
+    font-family: Abeezee;
+}
+
+
+.post img{
+    width: 45%;
+}
+
+.post{
+    margin-left: -25vmin;
+    margin-right: -25vmin;
+}
+
+.four-picture{
+    margin-top: 4vmin;
+    margin-left: 64vmin;
+    
+}
+
+.ep{
+    height: 45vmin;
+}
+
+.post .foe{
+    margin-left: -12vmin;
+    width: 51%;
+}
+
+/* section2 for images */
+
+.seep{
+    margin-top: -28vmin;
+    width: 90%;
+    margin-left: 27vmin;
+}
+
+.seeps{
+    width: 63%;
+    margin-top: 4vmin;
+    margin-left: 23vmin;
+    height: 45vmin;
+}
+
+.seepss{
+    width: 63%;
+    margin-top: -11vmin;
+    margin-left: -1vmin;
+    height: 50vmin;
+}
+
+/* end of section2 for images */
+
+.deep{
+    margin-top: -18vmin;
+    width: 93%;
+    margin-left: 27vmin;
+    height: 65vmin;
+}
+
+.deeps{
+    width: 63%;
+    margin-top: 4vmin;
+    margin-left: 25vmin;
+    height: 43vmin;
+}
+
+.deepss{
+    width: 64%;
+    margin-top: -6vmin;
+    margin-left: 1.5vmin;
+    height: 53vmin;
+}
+
+/* end of section3 for images */
+
+footer{
+    background: black;
+}
+
+.start{
+    color: white;
+    margin-right: 70vmin;
+    font-size: 28px;
+    margin-bottom: -1vmin;
+}
+
+.section5{
+    margin-left: 21vmin;
+    margin-top: 15vmin;
+}
+
+.ad{
+    font-size: 35px;
+    color: white;
+    margin-top: 10vmin;
+    font-family: abhaya libre;
+}
+
+.office{
+    color: white;
+    font-size: 20px;
+    font-family: open sauce two;
+    font-weight: 100;
+    padding-top: 2vmin;
+}
+
+.foots{
+    margin-left: -13vmin;
+    margin-right: 10vmin;
+}
+
+.input-group input{
+    height: 6vmin;
+    background: rgb(205, 204, 206);
+    outline: none;
+    border-radius: none;
+    border: none;
+}
+
+.btn4{
+    margin-top: 3vmin;
+    width: 35%;
+    height: 6vmin;
+    border: none;
+    border-radius: none;
+    outline: none;
+    cursor: pointer;
+    font-family: abhaya libre;
+    font-size: 20px;
+}
+
+.icon{
+    margin-top: 8vmin;
+    margin-bottom: 5vmin;
+}
+
+.icon i{
+    color: white;
+    padding: 1vmin;
+    font-size: 20px;
+}
