@@ -740,7 +740,7 @@ footer{
 
 
     .image img{
-        width: 110% !important;
+        width: 100% !important;
         margin-left: 2vmin;
         height: 67vh !important;
     }
@@ -789,7 +789,7 @@ footer{
       /* Create two columns that float next to eachother */
       .column {
         float: left;
-        width: 88% !important;
+        width: 77% !important;
         margin-top: 6px;
         padding: 20px;
         font-size: 10px;
