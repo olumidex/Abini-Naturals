@@ -417,6 +417,8 @@ footer{
 .btn4{
     
     width: 55%;
+    background: white !important;
+    color: black !important;
 }
 
 }
@@ -455,12 +457,12 @@ footer{
     .tact h2{
         margin-left: 6vmin;
         font-family: abhaya libre;
-        font-size: 17px;
+        font-size: 30px !important;
     }
     
     .tact p{
         margin-left: 6vmin;
-        font-size: 6px;
+        font-size: 9px !important;
     }
     
     
@@ -500,7 +502,7 @@ footer{
       /* Create two columns that float next to eachother */
       .column {
         float: left;
-        width: 48%;
+        width: 88% !important;
         margin-top: 6px;
         padding: 20px;
         font-size: 10px;
@@ -557,6 +559,8 @@ footer{
 
 .btn4{
     width: 55%;
+    background: white !important;
+    color: black !important;
     height: 10vmin;
     margin-bottom: 10vmin;
 }
@@ -601,12 +605,12 @@ footer{
     .tact h2{
         margin-left: 6vmin;
         font-family: abhaya libre;
-        font-size: 22px;
+        font-size: 30px !important;
     }
     
     .tact p{
         margin-left: 6vmin;
-        font-size: 8px;
+        font-size: 9px !important;
     }
     
     
@@ -642,7 +646,7 @@ footer{
       /* Create two columns that float next to eachother */
       .column {
         float: left;
-        width: 49%;
+        width: 88% !important;
         margin-top: 6px;
         padding: 20px;
         font-size: 10px;
@@ -698,6 +702,8 @@ footer{
 
 .btn4{
     width: 55%;
+    background: white !important;
+    color: black !important;
     height: 10vmin;
     margin-bottom: 10vmin;
 }
