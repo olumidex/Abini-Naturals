@@ -268,7 +268,9 @@ footer{
 
 .btn4{
     
-    width: 55%;
+     width: 55%;
+    background: white !important;
+    color: black !important;
 }
 
 
@@ -379,7 +381,9 @@ footer{
 
 .btn4{
     
-    width: 55%;
+     width: 55%;
+    background: white !important;
+    color: black !important;
 }
 
 
@@ -501,7 +505,9 @@ footer{
 
 
 .btn4{
-    width: 55%;
+     width: 55%;
+    background: white !important;
+    color: black !important;
     height: 10vmin;
     margin-bottom: 10vmin;
 }
@@ -627,6 +633,8 @@ footer{
 
 .btn4{
     width: 55%;
+    background: white !important;
+    color: black !important;
     height: 10vmin;
     margin-bottom: 10vmin;
 }
@@ -750,6 +758,8 @@ footer{
 
 .btn4{
     width: 55%;
+    background: white !important;
+    color: black !important;
     height: 10vmin;
     margin-bottom: 10vmin;
 }
