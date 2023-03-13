@@ -47,7 +47,7 @@ a{
 }
 
 .image img{
-    width: 79%;
+    width: 65% !important;
     margin-left: 21vmin;
     height: 79vmin;
 }
