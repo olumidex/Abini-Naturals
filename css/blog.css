@@ -69,75 +69,45 @@ a{
 
 
 .post img{
-    width: 45%;
+    width: 55%;
 }
 
-.post{
-    margin-left: -25vmin;
-    margin-right: -25vmin;
-}
 
 .four-picture{
     margin-top: 4vmin;
-    margin-left: 64vmin;
+    margin-left: 70vmin;
     
 }
 
-.ep{
-    height: 45vmin;
+.four-picture:hover{
+    cursor: pointer;
 }
 
-.post .foe{
-    margin-left: -12vmin;
-    width: 51%;
+.btn9{
+    margin-left:15vmin;
+    width: 70%;
+    height: 60px;
+    font-size: 20px;
+    font-weight: 300;
+    background: rgb(63, 138, 63);
+    color: white;
+    border: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
 }
 
-/* section2 for images */
-
-.seep{
-    margin-top: -28vmin;
-    width: 90%;
-    margin-left: 27vmin;
+.btn9:hover{
+    color: white;
+    background: rgb(63, 138, 63);
+    cursor: pointer;
+    border: none !important;
+    outline: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
 }
 
-.seeps{
-    width: 63%;
-    margin-top: 4vmin;
-    margin-left: 23vmin;
-    height: 45vmin;
-}
-
-.seepss{
-    width: 63%;
-    margin-top: -11vmin;
-    margin-left: -1vmin;
-    height: 50vmin;
-}
-
-/* end of section2 for images */
-
-.deep{
-    margin-top: -18vmin;
-    width: 93%;
-    margin-left: 27vmin;
-    height: 65vmin;
-}
-
-.deeps{
-    width: 63%;
-    margin-top: 4vmin;
-    margin-left: 25vmin;
-    height: 43vmin;
-}
-
-.deepss{
-    width: 64%;
-    margin-top: -6vmin;
-    margin-left: 1.5vmin;
-    height: 53vmin;
-}
-
-/* end of section3 for images */
 
 footer{
      background: #2B1D03 !important;
@@ -243,76 +213,44 @@ footer{
 
 
 .post img{
-    width: 38%;
+    width: 70% !important;
 }
 
-.post{
-    margin-left: -14vmin;
-    margin-right: -14vmin;
-}
 
 .four-picture{
     margin-top: 4vmin;
-    margin-left: 45vmin;
+    margin-left: 31vmin !important;
     
 }
 
-.ep{
-    height: 35vmin;
+.four-picture:hover{
+    cursor: pointer;
 }
 
-.post .foe{
-    margin-left: -19vmin;
-    width: 71%;
+.btn9{
+    margin-left:4vmin !important;
+    width: 140% !important;
+    height: 60px;
+    font-size: 20px;
+    font-weight: 300;
+    background: rgb(63, 138, 63);
+    color: white;
+    border: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
 }
 
-/* section2 for images */
-
-.seep{
-    margin-top: -13vmin;
-    width: 97%;
-    margin-left: 12vmin;
+.btn9:hover{
+    color: white !important;
+    background: rgb(63, 138, 63) !important;
+    cursor: pointer;
+    border: none !important;
+    outline: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
 }
-
-.seeps{
-    width: 63%;
-    margin-top: -9vmin;
-    margin-left: 12vmin;
-    height: 35vmin;
-}
-
-.seepss{
-    width: 63%;
-    margin-top: 3vmin;
-    margin-left: -1vmin;
-    height: 30vmin;
-}
-
-/* end of section2 for images */
-
-.deep{
-    margin-top: -16vmin;
-    width: 95%;
-    margin-left: 12vmin;
-    height: 35vmin;
-}
-
-.deeps{
-    width: 63%;
-    margin-top: -4vmin;
-    margin-left: 12vmin;
-    height: 23vmin;
-}
-
-.deepss{
-    width: 64%;
-    margin-top: 2vmin;
-    margin-left: -0.2vmin;
-    height: 17vmin;
-}
-
-/* end of section3 for images */
-
 
 
 /* Section5 */
@@ -402,75 +340,44 @@ footer{
 
 
 .post img{
-    width: 45%;
+    width: 65%;
 }
 
-.post{
-    margin-left: -14vmin;
-    margin-right: -14vmin;
-}
 
 .four-picture{
     margin-top: 4vmin;
-    margin-left: 48vmin;
+    margin-left: 40vmin;
     
 }
 
-.ep{
-    height: 35vmin;
+.four-picture:hover{
+    cursor: pointer;
 }
 
-.post .foe{
-    margin-left: -17vmin;
-    width: 71%;
+.btn9{
+    margin-left:13vmin;
+    width: 80% !important;
+    height: 60px;
+    font-size: 20px;
+    font-weight: 300;
+    background: rgb(63, 138, 63);
+    color: white;
+    border: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
 }
 
-/* section2 for images */
-
-.seep{
-    margin-top: -8vmin;
-    width: 111%;
-    margin-left: 17vmin;
+.btn9:hover{
+    color: white !important;
+    background: rgb(63, 138, 63) !important;
+    cursor: pointer;
+    border: none !important;
+    outline: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
 }
-
-.seeps{
-    width: 55%;
-    margin-top: 3vmin;
-    margin-left: 22vmin;
-    height: 35vmin;
-}
-
-.seepss{
-    width: 56%;
-    margin-top: 3vmin;
-    margin-left: 4vmin;
-    height: 30vmin;
-}
-
-/* end of section2 for images */
-
-.deep{
-    margin-top: 2vmin;
-    width: 112%;
-    margin-left: 17vmin;
-    height: 35vmin;
-}
-
-.deeps{
-    width: 57%;
-    margin-top: 3vmin;
-    margin-left: 22vmin;
-    height: 34vmin;
-}
-
-.deepss{
-    width: 56%;
-    margin-top: -2vmin;
-    margin-left: 4vmin;
-    height: 39vmin;
-}
-
-/* end of section3 for images */
 
 
 /* Section5 */
@@ -569,72 +476,43 @@ footer{
 
 
 .post img{
-    width: 45%;
+    width: 55%;
 }
 
-.post{
-    margin-left: -14vmin;
-    margin-right: -14vmin;
-}
 
 .four-picture{
     margin-top: 4vmin;
-    margin-left: 30vmin;
+    margin-left: 34.5vmin !important;
     
 }
 
-.ep{
-    height: 35vmin;
+.four-picture:hover{
+    cursor: pointer;
 }
 
-.post .foe{
-    margin-left: -1vmin;
-    width: 69%;
+.btn9{
+    margin-left: -2vmin !important;
+    width: 135% !important;
+    height: 40px !important;
+    font-size: 15px !important;
+    font-weight: 300;
+    background: rgb(63, 138, 63);
+    color: white;
+    border: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
 }
 
-/* section2 for images */
-
-.seep{
-    margin-top: 5vmin;
-    width: 64%;
-    margin-left: 16vmin;
-}
-
-.seeps{
-    width: 58%;
-    margin-top: 3vmin;
-    margin-left: 16vmin;
-    height: 35vmin;
-}
-
-.seepss{
-    width: 58%;
-    margin-top: 3vmin;
-    margin-left: 1vmin;
-    height: 35vmin;
-}
-
-/* end of section2 for images */
-
-.deep{
-    margin-top: 4vmin;
-    width: 65%;
-    margin-left: 16vmin;
-    height: 35vmin;
-}
-
-.deeps{
-    width: 59%;
-    margin-top: 4vmin;
-    margin-left: 16vmin;
-    height: 34vmin;
-}
-
-.deepss{
-    width: 59%;
-    margin-top: 4vmin;
-    margin-left: 1vmin;
-    height: 34vmin;
+.btn9:hover{
+    color: white !important;
+    background: rgb(63, 138, 63) !important;
+    cursor: pointer;
+    border: none !important;
+    outline: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
 }
 
 
@@ -738,72 +616,43 @@ footer{
 
 
 .post img{
-    width: 45%;
+    width: 55%;
 }
 
-.post{
-    margin-left: -14vmin;
-    margin-right: -14vmin;
-}
 
 .four-picture{
     margin-top: 4vmin;
-    margin-left: 30vmin;
+    margin-left: 36vmin !important;
     
 }
 
-.ep{
-    height: 35vmin;
+.four-picture:hover{
+    cursor: pointer;
 }
 
-.post .foe{
-    margin-left: -1vmin;
-    width: 69%;
+.btn9{
+    margin-left:-2.5vmin !important;
+    width: 135% !important;
+    height: 40px !important;
+    font-size: 15px !important;
+    font-weight: 300;
+    background: rgb(63, 138, 63);
+    color: white;
+    border: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
 }
 
-/* section2 for images */
-
-.seep{
-    margin-top: 5vmin;
-    width: 64%;
-    margin-left: 16vmin;
-}
-
-.seeps{
-    width: 58%;
-    margin-top: 3vmin;
-    margin-left: 16vmin;
-    height: 35vmin;
-}
-
-.seepss{
-    width: 58%;
-    margin-top: 3vmin;
-    margin-left: 1vmin;
-    height: 35vmin;
-}
-
-/* end of section2 for images */
-
-.deep{
-    margin-top: 4vmin;
-    width: 65%;
-    margin-left: 16vmin;
-    height: 35vmin;
-}
-
-.deeps{
-    width: 59%;
-    margin-top: 4vmin;
-    margin-left: 16vmin;
-    height: 34vmin;
-}
-
-.deepss{
-    width: 59%;
-    margin-top: 4vmin;
-    margin-left: 1vmin;
-    height: 34vmin;
+.btn9:hover{
+    color: white !important;
+    background: rgb(63, 138, 63) !important;
+    cursor: pointer;
+    border: none !important;
+    outline: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
 }
 
 
@@ -910,72 +759,43 @@ footer{
 
 
 .post img{
-    width: 45%;
+    width: 55%;
 }
 
-.post{
-    margin-left: -14vmin;
-    margin-right: -14vmin;
-}
 
 .four-picture{
     margin-top: 4vmin;
-    margin-left: 30vmin;
+    margin-left: 36vmin !important;
     
 }
 
-.ep{
-    height: 35vmin;
+.four-picture:hover{
+    cursor: pointer;
 }
 
-.post .foe{
-    margin-left: -1vmin;
-    width: 69%;
+.btn9{
+    margin-left:-1vmin !important;
+    width: 140% !important;
+    height: 40px !important;
+    font-size: 15px !important;
+    font-weight: 300;
+    background: rgb(63, 138, 63);
+    color: white;
+    border: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
 }
 
-/* section2 for images */
-
-.seep{
-    margin-top: 5vmin;
-    width: 64%;
-    margin-left: 16vmin;
-}
-
-.seeps{
-    width: 58%;
-    margin-top: 3vmin;
-    margin-left: 16vmin;
-    height: 35vmin;
-}
-
-.seepss{
-    width: 58%;
-    margin-top: 3vmin;
-    margin-left: 1vmin;
-    height: 35vmin;
-}
-
-/* end of section2 for images */
-
-.deep{
-    margin-top: 4vmin;
-    width: 65%;
-    margin-left: 16vmin;
-    height: 35vmin;
-}
-
-.deeps{
-    width: 59%;
-    margin-top: 4vmin;
-    margin-left: 16vmin;
-    height: 34vmin;
-}
-
-.deepss{
-    width: 59%;
-    margin-top: 4vmin;
-    margin-left: 1vmin;
-    height: 34vmin;
+.btn9:hover{
+    color: white !important;
+    background: rgb(63, 138, 63) !important;
+    cursor: pointer;
+    border: none !important;
+    outline: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
 }
 
     
