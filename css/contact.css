@@ -113,7 +113,7 @@ input[type=text], select, textarea {
 
 
 footer{
-    background: black;
+     background: #2B1D03 !important;
 }
 
 .start{
@@ -259,7 +259,7 @@ input[type=text], select, textarea {
 /* Section5 */
 
 footer{
-    background: black;
+    background: #2B1D03 !important;
 }
 
 .start{
@@ -383,7 +383,7 @@ footer{
       /* Section5 */
 
 footer{
-    background: black;
+     background: #2B1D03 !important;
 }
 
 .start{
@@ -523,7 +523,7 @@ footer{
       /* Section5 */
 
 footer{
-    background: black;
+     background: #2B1D03 !important;
 }
 
 .start{
@@ -666,7 +666,7 @@ footer{
       /* Section5 */
 
 footer{
-    background: black;
+    background: #2B1D03 !important;
 }
 
 .start{
@@ -808,7 +808,7 @@ footer{
 
 
       footer{
-        background: black;
+         background: #2B1D03 !important;
     }
     
     .start{
