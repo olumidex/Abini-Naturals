@@ -102,10 +102,19 @@ a{
     margin-bottom: 20vmin;
 }
 
+.bullet{
+    margin: 3vmin;
+    margin-top: 5vmin;
+}
+
+.bullet ul,li{
+    padding:0.5vmin;
+}
+
 /* Section5 */
 
 footer{
-    background: black;
+    background: #2B1D03 ;
 }
 
 .start{
@@ -235,7 +244,7 @@ footer{
 /* Section5 */
 
 footer{
-    background: black;
+    background: #2B1D03 !important;
 }
 
 .start{
@@ -346,7 +355,7 @@ footer{
 /* Section5 */
 
 footer{
-    background: black;
+    background: #2B1D03 !important;
 }
 
 .start{
@@ -466,7 +475,7 @@ footer{
 /* Section5 */
 
 footer{
-    background: black;
+    background: #2B1D03 !important;
 }
 
 .start{
@@ -591,7 +600,7 @@ footer{
 /* Section5 */
 
 footer{
-    background: black;
+    background: #2B1D03 !important;;
 }
 
 .start{
@@ -714,7 +723,7 @@ footer{
 }
 
 footer{
-    background: black;
+    background: #2B1D03 !important;
 }
 
 .start{

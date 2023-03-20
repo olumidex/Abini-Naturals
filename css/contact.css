@@ -113,7 +113,7 @@ input[type=text], select, textarea {
 
 
 footer{
-    background: black;
+    background: #2B1D03;
 }
 
 .start{
@@ -199,7 +199,7 @@ footer{
 .tact h2{
     margin-left: 2vmin;
     font-family: abhaya libre;
-    font-size: 56px;
+    font-size: 46px !important;
 }
 
 .tact p{
@@ -259,7 +259,7 @@ input[type=text], select, textarea {
 /* Section5 */
 
 footer{
-    background: black;
+    background: #2B1D03 !important;
 }
 
 .start{
@@ -383,7 +383,7 @@ footer{
       /* Section5 */
 
 footer{
-    background: black;
+    background: #2B1D03 !important;
 }
 
 .start{
@@ -455,18 +455,18 @@ footer{
     .tact h2{
         margin-left: 6vmin;
         font-family: abhaya libre;
-        font-size: 17px;
+        font-size: 30px !important;
     }
     
     .tact p{
         margin-left: 6vmin;
-        font-size: 6px;
+        font-size: 9px !important;
     }
     
     
     /* Style inputs */
     input[type=text], select, textarea {
-        width: 100%;
+        width: 100% !important;
         font-size: 10px;
         padding: 12px;
         height: 8vmin;
@@ -500,7 +500,7 @@ footer{
       /* Create two columns that float next to eachother */
       .column {
         float: left;
-        width: 48%;
+        width: 88% !important;
         margin-top: 6px;
         padding: 20px;
         font-size: 10px;
@@ -521,7 +521,7 @@ footer{
       /* Section5 */
 
 footer{
-    background: black;
+    background: #2B1D03 !important;
 }
 
 .start{
@@ -662,7 +662,7 @@ footer{
       /* Section5 */
 
 footer{
-    background: black;
+    background: #2B1D03 !important;
 }
 
 .start{
@@ -734,7 +734,7 @@ footer{
 
 
     .image img{
-        width: 130%;
+        width: 110%;
         margin-left: 2vmin;
         height: 67vh !important;
     }
@@ -783,7 +783,7 @@ footer{
       /* Create two columns that float next to eachother */
       .column {
         float: left;
-        width: 49%;
+        width: 89%;
         margin-top: 6px;
         padding: 20px;
         font-size: 10px;
@@ -802,7 +802,7 @@ footer{
 
 
       footer{
-        background: black;
+        background: #2B1D03 !important;
     }
     
     .start{
