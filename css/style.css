@@ -508,10 +508,14 @@ footer{
     margin-top: 10vmin;
 }
 
-.foot .office{
+.office{
     font-size: 12px;
      color: white !important;
 }
+    
+    .mood{
+         color: white !important;
+    }
 
 .foots{
     margin-left: -6vmin;
@@ -726,10 +730,14 @@ footer{
     margin-top: 10vmin;
 }
 
-.foot .office{
+.office{
     font-size: 17px;
      color: white !important;
 }
+    
+   .mood{
+       color: white !important;
+    }
 
 .foots{
     margin-left: -6vmin;
@@ -1190,10 +1198,14 @@ footer{
     margin-top: 10vmin;
 }
 
-.foot .office{
+.office{
     font-size: 13px;
      color: white !important;
 }
+    
+   .mood{
+       color: white !important;
+    }
 
 .foots{
     margin-left: -2vmin;
@@ -1423,10 +1435,14 @@ footer{
     margin-top: 10vmin;
 }
 
-.foot .office{
+.office{
     font-size: 13px;
      color: white !important;
 }
+    
+  .mood{
+       color: white !important;
+    }
 
 .foots{
     margin-left: -2vmin;
