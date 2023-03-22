@@ -10,7 +10,7 @@ header, section{
 }
 
 a{
-    color:  black !important;
+   color:  #2B1D03 !important;
     font-size: 1em;
     font-weight: 500;
 }
@@ -61,6 +61,7 @@ a{
     text-align: center;
     font-family: abhaya libre;
     font-size: 55px;
+    color:  #2B1D03 !important;
 }
 
 .top-band p{
@@ -68,6 +69,7 @@ a{
     font-size: 18px;
     font-family: open sauce two;
     margin-top: 5vmin;
+    color:  #2B1D03 !important;
 }
 
 
@@ -100,15 +102,18 @@ a{
     margin-left: 45vmin;
     font-size: 22px;
     margin-bottom: 20vmin;
+    color:  #2B1D03 !important;
 }
 
 .bullet{
     margin: 3vmin;
     margin-top: 5vmin;
+    color:  #2B1D03 !important;
 }
 
 .bullet ul,li{
     padding:0.5vmin;
+    color:  #2B1D03 !important;
 }
 
 /* Section5 */
@@ -167,14 +172,19 @@ footer{
     cursor: pointer;
     font-family: abhaya libre;
     font-size: 20px;
+    color:  #2B1D03 !important;
 }
 
 .icon{
     margin-top: 8vmin;
     margin-bottom: 5vmin;
+    text-decoration: none !important;
+    list-style-type: none !important;
 }
 
 .icon i{
+    text-decoration: none !important;
+    list-style-type: none !important;
     color: white;
     padding: 1vmin;
     font-size: 20px;
@@ -184,6 +194,11 @@ footer{
     .navbar-brand{
         padding-left: 1em;
     }
+    
+    a{
+    color:  #2B1D03 !important;
+}
+
 
     .icon-align-right{
         color: black;
@@ -199,6 +214,7 @@ footer{
     font-family: abhaya libre;
     font-size: 40px;
     font-weight: bold;
+    color:  #2B1D03 !important;
 }
 
 .top-band p{
@@ -206,6 +222,7 @@ footer{
     font-size: 23px;
     font-family: open sauce two;
     margin-top: 5vmin;
+    color:  #2B1D03 !important;
 }
 
 
@@ -238,6 +255,7 @@ footer{
     margin-left: 8vmin;
     font-size: 13px;
     margin-bottom: 8vmin;
+    color:  #2B1D03 !important;
 }
 
 
@@ -278,9 +296,19 @@ footer{
 
 .btn4{
     
-     width: 55%;
+    width: 55%;
     background: white !important;
-    color: black !important;
+    color:  #2B1D03 !important;
+}
+    
+ .icon{
+    text-decoration: none !important;
+    list-style-type: none !important;
+}
+
+.icon i{
+    text-decoration: none !important;
+    list-style-type: none !important;
 }
 
 
@@ -294,6 +322,10 @@ footer{
     .icon-align-right{
         color: black;
     }
+    
+    a{
+    color:  #2B1D03 !important;
+}
 
     .nav-item:last-child{
         padding-right: 2em;
@@ -313,6 +345,7 @@ footer{
     font-family: abhaya libre;
     font-size: 50px;
     font-weight: bold;
+    color:  #2B1D03 !important;
 }
 
 .top-band p{
@@ -320,6 +353,7 @@ footer{
     font-size: 20px;
     font-family: open sauce two;
     margin-top: 5vmin;
+    color:  #2B1D03 !important;
 }
 
 
@@ -352,6 +386,7 @@ footer{
     margin-left: 12vmin;
     font-size: 17px;
     margin-bottom: 8vmin;
+    color:  #2B1D03 !important;
 }
 
 
@@ -394,7 +429,17 @@ footer{
     
      width: 55%;
     background: white !important;
-    color: black !important;
+    color:  #2B1D03 !important;
+}
+    
+.icon{
+    text-decoration: none !important;
+    list-style-type: none !important;
+}
+
+.icon i{
+    text-decoration: none !important;
+    list-style-type: none !important;
 }
 
 
@@ -412,6 +457,9 @@ footer{
         margin-left: 5vmin;
     }
     
+     a{
+    color:  #2B1D03 !important;
+}
     
     .navbar-brand img{
         width: 21%;
@@ -436,6 +484,7 @@ footer{
     font-family: abhaya libre;
     font-size: 30px;
     font-weight: bold;
+    color:  #2B1D03 !important;
 }
 
 .top-band p{
@@ -443,6 +492,7 @@ footer{
     font-size: 12px;
     font-family: open sauce two;
     margin-top: 5vmin;
+    color:  #2B1D03 !important;
 }
 
 
@@ -475,6 +525,7 @@ footer{
     margin-left: 3vmin;
     font-size: 9px;
     margin-bottom: 8vmin;
+    color:  #2B1D03 !important;
 }
 
 
@@ -519,10 +570,21 @@ footer{
 .btn4{
      width: 55%;
     background: white !important;
-    color: black !important;
+    color:  #2B1D03 !important;
     height: 10vmin;
     margin-bottom: 10vmin;
 }
+    
+ .icon{
+    text-decoration: none !important;
+    list-style-type: none !important;
+}
+
+.icon i{
+    text-decoration: none !important;
+    list-style-type: none !important;
+}
+
 
 
 }
@@ -539,6 +601,10 @@ footer{
         padding: 0.3em;
         margin-left: 5vmin;
     }
+    
+     a{
+    color:  #2B1D03 !important;
+}
     
     
     .navbar-brand img{
@@ -565,6 +631,7 @@ footer{
     font-family: abhaya libre;
     font-size: 35px;
     font-weight: bold;
+    color:  #2B1D03 !important;
 }
 
 .top-band p{
@@ -572,6 +639,7 @@ footer{
     font-size: 12px;
     font-family: open sauce two;
     margin-top: 5vmin;
+    color:  #2B1D03 !important;
 }
 
 
@@ -604,6 +672,7 @@ footer{
     margin-left: 3vmin;
     font-size: 12px;
     margin-bottom: 8vmin;
+    color:  #2B1D03 !important;
 }
 
 /* Section5 */
@@ -647,9 +716,19 @@ footer{
 .btn4{
     width: 55%;
     background: white !important;
-    color: black !important;
+    color:  #2B1D03 !important;
     height: 10vmin;
     margin-bottom: 10vmin;
+}
+    
+.icon{
+    text-decoration: none !important;
+    list-style-type: none !important;
+}
+
+.icon i{
+    text-decoration: none !important;
+    list-style-type: none !important;
 }
 
 
@@ -668,6 +747,9 @@ footer{
         margin-left: 5vmin;
     }
     
+     a{
+    color:  #2B1D03 !important;
+}
     
     .navbar-brand img{
         width: 21%;
@@ -693,6 +775,7 @@ footer{
     font-family: abhaya libre;
     font-size: 33px;
     font-weight: bold;
+    color:  #2B1D03 !important;
 }
 
 .top-band p{
@@ -700,6 +783,7 @@ footer{
     font-size: 15px;
     font-family: open sauce two;
     margin-top: 5vmin;
+    color:  #2B1D03 !important;
 }
 
 
@@ -728,10 +812,11 @@ footer{
 }
 
 .field-text{
-   text-align: start;
+    text-align: start;
     margin-left: 3vmin;
     font-size: 14px;
     margin-bottom: 8vmin;
+    color:  #2B1D03 !important;
 }
 
 footer{
@@ -773,9 +858,19 @@ footer{
 .btn4{
     width: 55%;
     background: white !important;
-    color: black !important;
+    color:  #2B1D03 !important;
     height: 10vmin;
     margin-bottom: 10vmin;
+}
+    
+ .icon{
+    text-decoration: none !important;
+    list-style-type: none !important;
+}
+
+.icon i{
+    text-decoration: none !important;
+    list-style-type: none !important;
 }
 
 }
