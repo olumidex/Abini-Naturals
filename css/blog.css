@@ -43,7 +43,7 @@ a{
 }
 
 .navbar-brand img{
-    width: 12%;
+    width: 32%;
 }
 
 /* section9*/
@@ -69,78 +69,48 @@ a{
 
 
 .post img{
-    width: 45%;
+    width: 55%;
 }
 
-.post{
-    margin-left: -25vmin;
-    margin-right: -25vmin;
-}
 
 .four-picture{
     margin-top: 4vmin;
-    margin-left: 64vmin;
+    margin-left: 70vmin;
     
 }
 
-.ep{
-    height: 45vmin;
+.four-picture:hover{
+    cursor: pointer;
 }
 
-.post .foe{
-    margin-left: -12vmin;
-    width: 51%;
+.btn9{
+    margin-left:15vmin;
+    width: 70%;
+    height: 60px;
+    font-size: 20px;
+    font-weight: 300;
+    background: rgb(63, 138, 63);
+    color: white;
+    border: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
 }
 
-/* section2 for images */
-
-.seep{
-    margin-top: -28vmin;
-    width: 90%;
-    margin-left: 27vmin;
+.btn9:hover{
+    color: white;
+    background: rgb(63, 138, 63);
+    cursor: pointer;
+    border: none !important;
+    outline: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
 }
 
-.seeps{
-    width: 63%;
-    margin-top: 4vmin;
-    margin-left: 23vmin;
-    height: 45vmin;
-}
-
-.seepss{
-    width: 63%;
-    margin-top: -11vmin;
-    margin-left: -1vmin;
-    height: 50vmin;
-}
-
-/* end of section2 for images */
-
-.deep{
-    margin-top: -18vmin;
-    width: 93%;
-    margin-left: 27vmin;
-    height: 65vmin;
-}
-
-.deeps{
-    width: 63%;
-    margin-top: 4vmin;
-    margin-left: 25vmin;
-    height: 43vmin;
-}
-
-.deepss{
-    width: 64%;
-    margin-top: -6vmin;
-    margin-left: 1.5vmin;
-    height: 53vmin;
-}
-
-/* end of section3 for images */
 
 footer{
-    background: black;
+     background: #2B1D03 !important;
 }
 
 .start{
@@ -204,4 +174,677 @@ footer{
     color: white;
     padding: 1vmin;
     font-size: 20px;
+}
+
+
+
+@media(max-width: 768px){
+
+    .navbar-brand{
+        padding-left: 1em;
+    }
+
+    .icon-align-right{
+        color: black;
+    }
+
+
+
+* section9*/
+
+.section9{
+    margin: 5vmin;
+}
+
+.your h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: abhaya libre;
+    margin-top: 3vmin;
+
+}
+
+.your p{    
+    text-align: center;
+    font-size: 25px;
+    margin-top: 2vmin;
+    font-family: Abeezee;
+}
+
+
+.post img{
+    width: 70% !important;
+}
+
+
+.four-picture{
+    margin-top: 4vmin;
+    margin-left: 31vmin !important;
+    
+}
+
+.four-picture:hover{
+    cursor: pointer;
+}
+
+.btn9{
+    margin-left:4vmin !important;
+    width: 140% !important;
+    height: 60px;
+    font-size: 20px;
+    font-weight: 300;
+    background: rgb(63, 138, 63);
+    color: white;
+    border: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
+}
+
+.btn9:hover{
+    color: white !important;
+    background: rgb(63, 138, 63) !important;
+    cursor: pointer;
+    border: none !important;
+    outline: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
+}
+
+
+/* Section5 */
+
+footer{
+     background: #2B1D03 !important;
+}
+
+.start{
+    color: white;
+    margin-right: 70vmin;
+    font-size: 28px;
+    margin-bottom: -1vmin;
+}
+
+.section5{
+    margin-left: 3vmin;
+    margin-top: 15vmin;
+}
+
+.ad{
+    font-size:18px;
+    color: white;
+    margin-top: 10vmin;
+}
+
+.office{
+    font-size: 12px;
+    color: white !important;
+}
+
+.foots{
+    margin-left: -6vmin;
+    margin-right: 4vmin;
+}
+
+
+.btn4{
+    
+    width: 55%;
+    background: white !important;
+    color: black !important;
+
+}
+
+}
+
+
+@media(max-width: 1024px){
+    .navbar-brand{
+        padding-left: 1em;
+    }
+    .icon-align-right{
+        color: black;
+    }
+
+    .nav-item:last-child{
+        padding-right: 2em;
+    }
+
+    .nav-item{
+        padding: 2em;
+    }
+
+
+    
+
+* section9*/
+
+.section9{
+    margin: 5vmin;
+}
+
+.your h1{
+    font-size: 60px;
+    text-align: center;
+    font-family: abhaya libre;
+    margin-top: 3vmin;
+
+}
+
+.your p{    
+    text-align: center;
+    font-size: 29px;
+    margin-top: 2vmin;
+    font-family: Abeezee;
+}
+
+
+.post img{
+    width: 65%;
+}
+
+
+.four-picture{
+    margin-top: 4vmin;
+    margin-left: 40vmin;
+    
+}
+
+.four-picture:hover{
+    cursor: pointer;
+}
+
+.btn9{
+    margin-left:13vmin;
+    width: 80% !important;
+    height: 60px;
+    font-size: 20px;
+    font-weight: 300;
+    background: rgb(63, 138, 63);
+    color: white;
+    border: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
+}
+
+.btn9:hover{
+    color: white !important;
+    background: rgb(63, 138, 63) !important;
+    cursor: pointer;
+    border: none !important;
+    outline: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
+}
+
+
+/* Section5 */
+
+footer{
+    background: #2B1D03 !important;
+}
+
+.start{
+    color: white;
+    margin-right: 70vmin;
+    font-size: 28px;
+    margin-bottom: -1vmin;
+}
+
+.section5{
+    margin-left: 3vmin;
+    margin-top: 15vmin;
+}
+
+.ad{
+    font-size:27px;
+    color: white;
+    margin-top: 10vmin;
+}
+
+.office{
+    font-size: 16px;
+     color: white !important;
+}
+
+.foots{
+    margin-left: -6vmin;
+    margin-right: 4vmin;
+}
+
+
+.btn4{
+    
+    width: 55%;
+    background: white !important;
+    color: black !important;
+}
+
+}
+
+
+@media(max-width: 320px){
+    .navbar-toggler{
+        margin-top: -15vmin;
+        margin-left: 77vmin;
+    }
+
+    .nav-item{
+        padding: 0.3em;
+        margin-left: 5vmin;
+    }
+    
+    
+    .navbar-brand img{
+        width: 21%;
+    }
+    
+
+    .navbar-brand{
+        padding-left: 1em;
+    }
+
+    .icon-align-right{
+        color: black;
+    }
+
+
+    
+    
+
+* section9*/
+
+.section9{
+    margin: 5vmin;
+}
+
+.your h1{
+    font-size: 29px;
+    text-align: center;
+    font-family: abhaya libre;
+    margin-top: 3vmin;
+
+}
+
+.your p{    
+    text-align: center;
+    font-size: 15px;
+    margin-top: 2vmin;
+    font-family: Abeezee;
+}
+
+
+.post img{
+    width: 55%;
+}
+
+
+.four-picture{
+    margin-top: 4vmin;
+    margin-left: 34.5vmin !important;
+    
+}
+
+.four-picture:hover{
+    cursor: pointer;
+}
+
+.btn9{
+    margin-left: -2vmin !important;
+    width: 135% !important;
+    height: 40px !important;
+    font-size: 15px !important;
+    font-weight: 300;
+    background: rgb(63, 138, 63);
+    color: white;
+    border: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
+}
+
+.btn9:hover{
+    color: white !important;
+    background: rgb(63, 138, 63) !important;
+    cursor: pointer;
+    border: none !important;
+    outline: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
+}
+
+
+      /* Section5 */
+
+      footer{
+        background: #2B1D03 !important;
+    }
+    
+    .start{
+        color: white;
+        margin-right: 60vmin;
+        font-size: 28px;
+        margin-bottom: -1vmin;
+    }
+    
+    .section5{
+        margin-top: 15vmin;
+    }
+    
+    .ad{
+        font-size:18px;
+        color: white;
+        margin-top: 10vmin;
+    }
+    
+    .office{
+        font-size: 13px;
+        color: white !important;
+    }
+    
+    .foots{
+        margin-left: -2vmin;
+        margin-right: 14vmin;
+    }
+    
+    .input-group input{
+        height: 12vmin;
+    }
+    
+    
+    .btn4{
+         width: 55%;
+        background: white !important;
+        color: black !important;
+        height: 10vmin;
+        margin-bottom: 10vmin;
+    }
+    
+}
+
+
+@media(max-width: 375px){
+
+    .navbar-toggler{
+        margin-top: -15vmin;
+        margin-left: 77vmin;
+    }
+
+    .nav-item{
+        padding: 0.3em;
+        margin-left: 5vmin;
+    }
+    
+    
+    .navbar-brand img{
+        width: 21%;
+    }
+    
+
+    .navbar-brand{
+        padding-left: 1em;
+    }
+
+    .icon-align-right{
+        color: black;
+    }
+
+    
+    
+
+* section9*/
+
+.section9{
+    margin: 5vmin;
+}
+
+.your h1{
+    font-size: 35px;
+    text-align: center;
+    font-family: abhaya libre;
+    margin-top: 3vmin;
+
+}
+
+.your p{    
+    text-align: center;
+    font-size: 18px;
+    margin-top: 2vmin;
+    font-family: Abeezee;
+}
+
+
+.post img{
+    width: 55%;
+}
+
+
+.four-picture{
+    margin-top: 4vmin;
+    margin-left: 36vmin !important;
+    
+}
+
+.four-picture:hover{
+    cursor: pointer;
+}
+
+.btn9{
+    margin-left:-2.5vmin !important;
+    width: 135% !important;
+    height: 40px !important;
+    font-size: 15px !important;
+    font-weight: 300;
+    background: rgb(63, 138, 63);
+    color: white;
+    border: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
+}
+
+.btn9:hover{
+    color: white !important;
+    background: rgb(63, 138, 63) !important;
+    cursor: pointer;
+    border: none !important;
+    outline: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
+}
+
+
+
+      /* Section5 */
+
+      footer{
+         background: #2B1D03 !important;
+    }
+    
+    .start{
+        color: white;
+        margin-right: 60vmin;
+        font-size: 28px;
+        margin-bottom: -1vmin;
+    }
+    
+    .section5{
+        margin-top: 15vmin;
+    }
+    
+    .ad{
+        font-size:18px;
+        color: white;
+        margin-top: 10vmin;
+    }
+    
+    .office{
+        font-size: 13px;
+         color: white !important;
+    }
+    
+    .foots{
+        margin-left: -2vmin;
+        margin-right: 14vmin;
+    }
+    
+    .input-group input{
+        height: 12vmin;
+    }
+    
+    
+    .btn4{
+         width: 55%;
+        background: white !important;
+        color: black !important;
+        height: 10vmin;
+        margin-bottom: 10vmin;
+    }
+
+}
+
+
+
+@media(max-width: 425px){
+
+    .navbar-toggler{
+        margin-top: -13vmin;
+        margin-left: 83vmin;
+    }
+
+    .nav-item{
+        padding: 0.3em;
+        margin-left: 5vmin;
+    }
+    
+    
+    .navbar-brand img{
+        width: 21%;
+    }
+    
+
+    .navbar-brand{
+        padding-left: 1em;
+    }
+
+    .icon-align-right{
+        color: black;
+    }
+
+
+    
+    
+
+* section9*/
+
+.section9{
+    margin: 5vmin;
+}
+
+.your h1{
+    font-size: 40px;
+    text-align: center;
+    font-family: abhaya libre;
+    margin-top: 3vmin;
+
+}
+
+.your p{    
+    text-align: center;
+    font-size: 20px;
+    margin-top: 2vmin;
+    font-family: Abeezee;
+}
+
+
+.post img{
+    width: 55%;
+}
+
+
+.four-picture{
+    margin-top: 4vmin;
+    margin-left: 36vmin !important;
+    
+}
+
+.four-picture:hover{
+    cursor: pointer;
+}
+
+.btn9{
+    margin-left:-1vmin !important;
+    width: 140% !important;
+    height: 40px !important;
+    font-size: 15px !important;
+    font-weight: 300;
+    background: rgb(63, 138, 63);
+    color: white;
+    border: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
+}
+
+.btn9:hover{
+    color: white !important;
+    background: rgb(63, 138, 63) !important;
+    cursor: pointer;
+    border: none !important;
+    outline: none !important;
+    outline-color: none !important;
+    border-color: none !important;
+    border-radius: none !important;
+}
+
+    
+footer{
+     background: #2B1D03 !important;
+}
+
+.start{
+    color: white;
+    margin-right: 60vmin;
+    font-size: 28px;
+    margin-bottom: -1vmin;
+}
+
+.section5{
+    margin-top: 15vmin;
+}
+
+.ad{
+    font-size:22px;
+    color: white;
+    margin-top: 10vmin;
+}
+
+.office{
+    font-size: 13px;
+     color: white !important;
+}
+
+.foots{
+    margin-left: -2vmin;
+    margin-right: 14vmin;
+}
+
+.input-group input{
+    height: 12vmin;
+}
+
+
+.btn4{
+    width: 55%;
+    background: white !important;
+    color: black !important;
+    height: 10vmin;
+    margin-bottom: 10vmin;
+}
+
 }

@@ -10,7 +10,7 @@ header, section{
 }
 
 a{
-    color:  black !important;
+    color:  #2B1D03 !important;
     font-size: 1em;
     font-weight: 500;
 }
@@ -21,7 +21,7 @@ a{
     display: block;
     width: 0px;
     height: 3px;
-    background: rgb(0, 0, 0);
+    background: #2B1D03 !important;
     transition: 0.4s
 }
 
@@ -43,11 +43,11 @@ a{
 }
 
 .navbar-brand img{
-    width: 12%;
+    width: 32%;
 }
 
 .image img{
-    width: 79%;
+    width: 79% !important;
     margin-left: 21vmin;
     height: 79vmin;
 }
@@ -56,11 +56,13 @@ a{
     margin-left: 5vmin;
     font-family: abhaya libre;
     font-size: 70px;
+    color:  #2B1D03 !important;
 }
 
 .tact p{
     margin-left: 5vmin;
     font-size: 15px;
+    color:  #2B1D03 !important;
 }
 
 
@@ -79,7 +81,7 @@ input[type=text], select, textarea {
   }
   
   input[type=submit] {
-    background-color: #000000;
+    background-color: #2B1D03 !important;
     width: 25%;
     height: 6vmin;
     color: white;
@@ -113,7 +115,7 @@ input[type=text], select, textarea {
 
 
 footer{
-    background: black;
+     background: #2B1D03 !important;
 }
 
 .start{
@@ -166,9 +168,12 @@ footer{
     cursor: pointer;
     font-family: abhaya libre;
     font-size: 20px;
+    color:  #2B1D03 !important;
 }
 
 .icon{
+    text-decoration: none;
+    list-style-type: none;
     margin-top: 8vmin;
     margin-bottom: 5vmin;
 }
@@ -177,4 +182,768 @@ footer{
     color: white;
     padding: 1vmin;
     font-size: 20px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+@media(max-width: 768px){
+
+    .navbar-brand{
+        padding-left: 1em;
+    }
+
+    .icon-align-right{
+        color: black;
+    }
+    
+   a{
+    color:  #2B1D03 !important;
+}
+
+    
+.image img{
+    width: 100%;
+    margin-left: 2vmin;
+    height: 90vmin;
+}
+
+.tact h2{
+    margin-left: 2vmin;
+    font-family: abhaya libre;
+    font-size: 56px;
+    color:  #2B1D03 !important;
+}
+
+.tact p{
+    margin-left: 2vmin;
+    font-size: 15px;
+    color:  #2B1D03 !important;
+}
+
+
+/* Style inputs */
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    height: 8vmin;
+    border: none;
+    outline: none;
+    border-radius: none;
+    background: rgb(205, 204, 206);
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #2B1D03;
+    width: 40%;
+    height: 6vmin;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 3vmin;
+  }
+  
+  
+ 
+  
+  /* Create two columns that float next to eachother */
+  .column {
+    float: left;
+    width: 48%;
+    margin-top: 6px;
+    padding: 20px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .other{
+    margin-left: 2vmin;
+  }
+
+  
+/* Section5 */
+
+footer{
+    background: #2B1D03 !important;
+}
+
+.start{
+    color: white;
+    margin-right: 70vmin;
+    font-size: 28px;
+    margin-bottom: -1vmin;
+}
+
+.section5{
+    margin-left: 3vmin;
+    margin-top: 15vmin;
+}
+
+.ad{
+    font-size:18px;
+    color: white;
+    margin-top: 10vmin;
+}
+
+.office{
+    font-size: 12px;
+    color: white !important;
+}
+
+.foots{
+    margin-left: -6vmin;
+    margin-right: 4vmin;
+}
+
+
+.btn4{
+    
+    width: 55%;
+}
+    
+    .icon{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.icon i{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+
+}
+
+
+@media(max-width: 1024px){
+    .navbar-brand{
+        padding-left: 1em;
+    }
+    .icon-align-right{
+        color: black;
+    }
+
+    .nav-item:last-child{
+        padding-right: 2em;
+    }
+    
+     a{
+    color:  #2B1D03 !important;
+}
+
+    .nav-item{
+        padding: 2em;
+    }
+
+    .image img{
+        width: 100%;
+        margin-left: 2vmin;
+        height: 90vmin;
+    }
+    
+    .tact h2{
+        margin-left: 2vmin;
+        font-family: abhaya libre;
+        font-size: 69px;
+        color:  #2B1D03 !important;
+    }
+    
+    .tact p{
+        margin-left: 2vmin;
+        font-size: 21px;
+        color:  #2B1D03 !important;
+    }
+    
+    
+    /* Style inputs */
+    input[type=text], select, textarea {
+        width: 100%;
+        padding: 12px;
+        height: 8vmin;
+        border: none;
+        outline: none;
+        border-radius: none;
+        background: rgb(205, 204, 206);
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+      }
+      
+      input[type=submit] {
+        background-color: #2B1D03 !important;
+        width: 40%;
+        height: 6vmin;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        cursor: pointer;
+        margin-top: 3vmin;
+      }
+      
+      
+     
+      
+      /* Create two columns that float next to eachother */
+      .column {
+        float: left;
+        width: 48%;
+        margin-top: 6px;
+        padding: 20px;
+      }
+      
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+    
+      .other{
+        margin-left: 2vmin;
+      }
+    
+      /* Section5 */
+
+footer{
+     background: #2B1D03 !important;
+}
+
+.start{
+    color: white;
+    margin-right: 70vmin;
+    font-size: 28px;
+    margin-bottom: -1vmin;
+}
+
+.section5{
+    margin-left: 3vmin;
+    margin-top: 15vmin;
+}
+
+.ad{
+    font-size:27px;
+    color: white;
+    margin-top: 10vmin;
+}
+
+.office{
+    font-size: 16px;
+     color: white !important;
+}
+
+.foots{
+    margin-left: -6vmin;
+    margin-right: 4vmin;
+}
+
+
+.btn4{
+    
+    width: 55%;
+    background: white !important;
+    color: #2B1D03 !important;
+}
+    
+    
+      .icon{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.icon i{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+}
+
+@media(max-width: 320px){
+    .navbar-toggler{
+        margin-top: -15vmin;
+        margin-left: 77vmin;
+    }
+
+    .nav-item{
+        padding: 0.3em;
+        margin-left: 5vmin;
+    }
+    
+     a{
+    color:  #2B1D03 !important;
+}
+    
+    
+    .navbar-brand img{
+        width: 21%;
+    }
+    
+
+    .navbar-brand{
+        padding-left: 1em;
+    }
+
+    .icon-align-right{
+        color: black;
+    }
+
+    .image img{
+        width: 130%;
+        margin-left: 2vmin;
+        height: 60vh !important;
+    }
+    
+    .tact h2{
+        margin-left: 6vmin;
+        font-family: abhaya libre;
+        font-size: 30px !important;
+        color:  #2B1D03 !important;
+    }
+    
+    .tact p{
+        margin-left: 6vmin;
+        font-size: 9px !important;
+        color:  #2B1D03 !important;
+    }
+    
+    
+    /* Style inputs */
+    input[type=text], select, textarea {
+        width: 100%;
+        font-size: 10px;
+        padding: 12px;
+        height: 8vmin;
+        border: none;
+        outline: none;
+        border-radius: none;
+        background: rgb(205, 204, 206);
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+      }
+
+      .input-group input{
+        height: 30vmin;
+      }
+      
+      input[type=submit] {
+        background-color: #2B1D03 !important;
+        width: 95%;
+        height: 14vmin;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        cursor: pointer;
+        margin-top: 3vmin;
+      }
+      
+      
+     
+      
+      /* Create two columns that float next to eachother */
+      .column {
+        float: left;
+        width: 88% !important;
+        margin-top: 6px;
+        padding: 20px;
+        font-size: 10px;
+      }
+      
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+    
+      .other{
+        margin-left: 6vmin;
+      }
+
+
+      /* Section5 */
+
+footer{
+     background: #2B1D03 !important;
+}
+
+.start{
+    color: white;
+    margin-right: 60vmin;
+    font-size: 28px;
+    margin-bottom: -1vmin;
+}
+
+.section5{
+    margin-top: 15vmin;
+}
+
+.ad{
+    font-size:18px;
+    color: white;
+    margin-top: 10vmin;
+}
+
+.office{
+    font-size: 13px;
+     color: white !important;
+}
+
+.foots{
+    margin-left: -2vmin;
+    margin-right: 14vmin;
+}
+
+.input-group input{
+    height: 12vmin;
+}
+
+
+.btn4{
+    width: 55%;
+    background: white !important;
+    color: #2B1D03 !important;
+    height: 10vmin;
+    margin-bottom: 10vmin;
+}
+    
+      .icon{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.icon i{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+}
+
+
+@media(max-width: 375px){
+
+    .navbar-toggler{
+        margin-top: -15vmin;
+        margin-left: 77vmin;
+    }
+
+    .nav-item{
+        padding: 0.3em;
+        margin-left: 5vmin;
+    }
+    
+     a{
+    color:  #2B1D03 !important;
+}
+    
+    
+    .navbar-brand img{
+        width: 21%;
+    }
+    
+
+    .navbar-brand{
+        padding-left: 1em;
+    }
+
+    .icon-align-right{
+        color: black;
+    }
+
+
+    
+    .image img{
+        width: 130%;
+        margin-left: 2vmin;
+        height: 63vh !important;
+    }
+    
+    .tact h2{
+        margin-left: 6vmin;
+        font-family: abhaya libre;
+        font-size: 30px !important;
+        color:  #2B1D03 !important;
+    }
+    
+    .tact p{
+        margin-left: 6vmin;
+        font-size: 9px !important;
+        color:  #2B1D03 !important;
+    }
+    
+    
+    /* Style inputs */
+    input[type=text], select, textarea {
+        width: 100%;
+        font-size: 10px;
+        padding: 12px;
+        height: 8vmin;
+        border: none;
+        outline: none;
+        border-radius: none;
+        background: rgb(205, 204, 206);
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+      }
+
+      input[type=submit] {
+        background-color: #2B1D03 !important;
+        width: 95%;
+        height: 14vmin;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        cursor: pointer;
+        margin-top: 3vmin;
+      }
+      
+      
+     
+      
+      /* Create two columns that float next to eachother */
+      .column {
+        float: left;
+        width: 88% !important;
+        margin-top: 6px;
+        padding: 20px;
+        font-size: 10px;
+      }
+      
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+    
+      .other{
+        margin-left: 6vmin;
+      }
+
+      /* Section5 */
+
+footer{
+    background: #2B1D03 !important;
+}
+
+.start{
+    color: white;
+    margin-right: 60vmin;
+    font-size: 28px;
+    margin-bottom: -1vmin;
+}
+
+.section5{
+    margin-top: 15vmin;
+}
+
+.ad{
+    font-size:18px;
+    color: white;
+    margin-top: 10vmin;
+}
+
+.office{
+    font-size: 13px;
+     color: white !important;
+}
+
+.foots{
+    margin-left: -2vmin;
+    margin-right: 14vmin;
+}
+
+.input-group input{
+    height: 12vmin;
+}
+
+
+.btn4{
+    width: 55%;
+    background: white !important;
+    color: #2B1D03 !important;
+    height: 10vmin;
+    margin-bottom: 10vmin;
+}
+    
+    
+    .icon{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.icon i{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+
+}
+
+
+@media(max-width: 425px){
+
+    .navbar-toggler{
+        margin-top: -13vmin;
+        margin-left: 83vmin;
+    }
+
+    .nav-item{
+        padding: 0.3em;
+        margin-left: 5vmin;
+    }
+    
+     a{
+    color:  #2B1D03 !important;
+}
+    
+    
+    .navbar-brand img{
+        width: 21%;
+    }
+    
+
+    .navbar-brand{
+        padding-left: 1em;
+    }
+
+    .icon-align-right{
+        color: black;
+    }
+
+
+    .image img{
+        width: 120% !important;
+        margin-left: 2vmin;
+        height: 67vh !important;
+    }
+    
+     .tact h2{
+        margin-left: 6vmin;
+        font-family: abhaya libre;
+        font-size: 30px !important;
+        color:  #2B1D03 !important;
+    }
+    
+    .tact p{
+        margin-left: 6vmin;
+        font-size: 9px !important;
+        color:  #2B1D03 !important;
+    }
+    
+    
+    /* Style inputs */
+    input[type=text], select, textarea {
+        width: 100%;
+        font-size: 10px;
+        padding: 12px;
+        height: 8vmin;
+        border: none;
+        outline: none;
+        border-radius: none;
+        background: rgb(205, 204, 206);
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+      }
+
+      input[type=submit] {
+        background-color: #2B1D03 !important;
+        width: 95%;
+        height: 14vmin;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        cursor: pointer;
+        margin-top: 3vmin;
+      }
+      
+      
+     
+      
+      /* Create two columns that float next to eachother */
+      .column {
+        float: left;
+        width: 77% !important;
+        margin-top: 6px;
+        padding: 20px;
+        font-size: 10px;
+      }
+      
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+    
+      .other{
+        margin-left: 6vmin;
+      }
+
+
+      footer{
+         background: #2B1D03 !important;
+    }
+    
+    .start{
+        color: white;
+        margin-right: 60vmin;
+        font-size: 28px;
+        margin-bottom: -1vmin;
+    }
+    
+    .section5{
+        margin-top: 15vmin;
+    }
+    
+    .ad{
+        font-size:22px;
+        color: white;
+        margin-top: 10vmin;
+    }
+    
+    .office{
+        font-size: 13px;
+        color: white !important;
+    }
+    
+    .foots{
+        margin-left: -2vmin;
+        margin-right: 14vmin;
+    }
+    
+    .input-group input{
+        height: 12vmin;
+    }
+    
+    
+    .btn4{
+        width: 55%;
+        background: white !important;
+        color: #2B1D03 !important;
+        height: 10vmin;
+        margin-bottom: 10vmin;
+    }
+    
+   
+    .icon{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.icon i{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+
 }
