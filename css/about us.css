@@ -382,11 +382,15 @@ footer{
 }
 
 .field-text{
-   text-align: justify;
-    margin-left: 12vmin;
+   text-align: center !important;
+    margin-left: 11vmin !important;
     font-size: 17px;
     margin-bottom: 8vmin;
     color:  #2B1D03 !important;
+}
+
+.field-text .bullet{
+    text-align: left;
 }
 
 
@@ -521,12 +525,16 @@ footer{
 }
 
 .field-text{
-   text-align: start;
+    text-align: center !important;
     margin-left: 3vmin;
     font-size: 9px;
     margin-bottom: 8vmin;
     color:  #2B1D03 !important;
 }
+ 
+ .field-text .bullet{
+     text-align: left;
+ }
 
 
 /* Section5 */
@@ -668,12 +676,20 @@ footer{
 }
 
 .field-text{
-   text-align: start;
+    text-align: center !important;
     margin-left: 3vmin;
     font-size: 12px;
     margin-bottom: 8vmin;
     color:  #2B1D03 !important;
 }
+
+.field-text .bullet{
+    text-align: left;
+}
+
+
+
+
 
 /* Section5 */
 
@@ -812,11 +828,16 @@ footer{
 }
 
 .field-text{
-    text-align: start;
+    text-align: center !important;
     margin-left: 3vmin;
     font-size: 14px;
     margin-bottom: 8vmin;
     color:  #2B1D03 !important;
+}
+
+
+.field-text .bullet{
+    text-align: left;
 }
 
 footer{
